@@ -1,5 +1,5 @@
 # basketballWorld
-#Analyzing the following Statistics of the NBA players 
+#Analyzing the NBA players performance using the following:
 
  - FieldGoalAttempts
  - FieldGoals
