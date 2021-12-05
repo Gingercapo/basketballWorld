@@ -1,4 +1,4 @@
-# basketballWorld
+# basketballWorldAnalysis
 #Analyzing the NBA players performance using the following:
 
  - FieldGoalAttempts
